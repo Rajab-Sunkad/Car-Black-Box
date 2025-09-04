@@ -2,6 +2,12 @@
  * NAME: RAJAB J SUNKAD
  * DATE: 16/12/2024
  * PROJECT - CAR BLACK BOX.
+ * Description: A car black box, also known as an Event Data Recorder (EDR), is a device installed in vehicles to record critical 
+                operational data. 
+                Developed a compact and cost-effective car black box designed to accurately record and store essential vehicle data 
+                such as speed, time, engine data, and crash information provides invaluable insights for accident investigations and 
+                enhancements in vehicle safety.
+
  */
 
 #include "main.h"
